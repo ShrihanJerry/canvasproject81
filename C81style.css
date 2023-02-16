@@ -1,0 +1,21 @@
+
+h1
+{
+	color: black; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	background-color: white;
+	border: 5px ridge;
+
+}
+
+button{
+	padding: 8px;
+}
